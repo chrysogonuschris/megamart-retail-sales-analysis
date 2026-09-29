@@ -97,7 +97,7 @@ The report found that the **1–10% discount band generated the highest sales an
 
 ## Project Documentation
 
-[View the full MegaMart Retail Sales Analysis Report](documentation/MegaMart_Retail_Sales_Analysis_Report.docx)
+[View the full MegaMart Retail Sales Analysis Report]MegaMart_Retail_Sales_Analysis_Report.docx
 
 ## Project Status
 
